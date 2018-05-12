@@ -1,0 +1,33 @@
+_repo: Historic-Waterways-Six-Hundred-Miles-of-Canoeing-Down-the-Rock-Fox-and-Wisconsin-Rivers_38556
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38556-h/images/frontcover400.jpg
+creator:
+  author:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canoes and canoeing -- Wisconsin'
+- !lcsh 'Rock River (Wis. and Ill.)'
+- !lcsh 'Wisconsin River (Wis.)'
+- !lcc 'F516'
+- !lcsh 'Fox River (Wis. and Ill.)'
+- !lcsh 'Wisconsin -- Description and travel'
+title: Historic Waterways—Six Hundred Miles of Canoeing Down the Rock, Fox, and Wisconsin
+  Rivers
+url: http://www.gutenberg.org/ebooks/38556
